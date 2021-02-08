@@ -1,6 +1,6 @@
 # Currency-Converter
 
-<h1>Team Hack Twist</h1>
 
+<img src="Cool-Text-376123244834903.png">
 
-Currency Converter App made by THT 
+<h2>Currency Converter App made by THT </h2>
